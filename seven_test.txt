@@ -1,0 +1,11 @@
+b :=b+1;
+	case (b)of
+		3: b:=b+1;
+		4: b := b -2;
+	end;
+	b := b+ 2 +c;
+3: case 100 of
+	100: a := 1;
+	1: b := 2;
+   end;
+end

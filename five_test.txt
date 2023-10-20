@@ -1,0 +1,2 @@
+ caef: integer;
+max, min, d, e, f:integer;
